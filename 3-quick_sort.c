@@ -1,5 +1,6 @@
+#include <stddef.h> 
+#include <stdio.h> 
 #include "sort.h"
-#include <stdio.h>
 
 /**
  * lomuto_partition - Partition array using the Lomuto scheme
